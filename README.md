@@ -1,2 +1,2 @@
 # FLIPKART-CLONE
- Flipkart project using html and css
+ Flipkart clone a basic project using html and css
